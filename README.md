@@ -25,18 +25,16 @@ Here are some ideas to get you started:
 
 My name is Alberto
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-
- <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonsilvati&hide=html&layout=compact" /></td>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonsilvati&hide=html&layout=compact" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=gilsonsilvati&show_icons=true&theme=radical" /></td>
+    </tr>   
+  </table>
+</center>
 
 
 
