@@ -36,7 +36,6 @@ My name is Alberto
 ![Hibernate](https://img.shields.io/badge/-Hibernate-B7A976?style=flat-square&logo=hibernate&logoColor=white)
 ![JPA](https://img.shields.io/badge/-JPA-58646A?style=flat-square&logo=jpa&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FD602F?style=flat-square&logo=postman&logoColor=white)
