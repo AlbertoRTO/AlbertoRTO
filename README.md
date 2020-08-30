@@ -1,5 +1,3 @@
-
-
 <!--
 ### Hi there 👋
 **AlbertoRTO/AlbertoRTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
 # Alberto R Batista :man_technologist:
 
@@ -44,15 +41,11 @@ My name is Alberto
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 
-   
-
 <center>
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoRTO&hide=html&layout=compact" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=AlbertoRTO&show_icons=true&theme=radical&title_color=2ED3EA" /></td>
-      
-      [![Github Stats](https://github-readme-stats.vercel.app/api?username=AlbertoRTO&show_icons=true&theme=radical&title_color=2ED3EA)](https://github.com/AlbertoRTO/github-readme-stats)
     </tr>   
   </table>
 </center>
