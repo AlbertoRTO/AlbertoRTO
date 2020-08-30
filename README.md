@@ -23,15 +23,8 @@ Here are some ideas to get you started:
 <br/>
 
 <p>
-  <img src="http://views.whatilearened.today/views/github/gilsonsilvati/views.svg" />
-  <img src="https://img.shields.io/badge/Front End-Angular-f55247" />
+  <img src="http://views.whatilearened.today/views/github/AlbertoRTO/views.svg" />
   <img src="https://img.shields.io/badge/Back End-Java-f55247" />
-  <a href="https://github.com/gilsonsilvati/">
-    <img src="https://img.shields.io/github/followers/gilsonsilvati?color=%234CC61E&label=GitHub%20Followers%20%3A" />
-  </a>
-  <a href="https://github.com/gilsonsilvati?tab=repositories">
-    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" />
-  </a>
 </p>
 
 ### Helooo👋 Welcome to my profile
