@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Back End-Java-f55247" />
 <br/>
 
-<p>
 ### 💼 Atualmente Trabalho com
 ![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-CE608A?style=flat-square&logo=kotlin&logoColor=white)
@@ -48,7 +47,7 @@ Here are some ideas to get you started:
 ![Prettier](https://img.shields.io/badge/-Prettier-1A2B34?style=flat-square&logo=prettier&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
-</p>
+
 
 ### Helooo👋 Welcome to my profile
 
