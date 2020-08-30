@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=AlbertoRTO&show_icons=true&theme=radical&title_color=2ED3EA)](https://github.com/AlbertoRTO/github-readme-stats)
 
 
 # Alberto R Batista :man_technologist:
@@ -52,14 +51,11 @@ My name is Alberto
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoRTO&hide=html&layout=compact" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=AlbertoRTO&show_icons=true&theme=radical" /></td>
+       [![Github Stats](https://github-readme-stats.vercel.app/api?username=AlbertoRTO&show_icons=true&theme=radical&title_color=2ED3EA)](https://github.com/AlbertoRTO/github-readme-stats)
     </tr>   
   </table>
 </center>
 
-
-
-      
-      [![Github Stats](https://github-readme-stats.vercel.app/api?username=luizeduul&show_icons=true&theme=radical&title_color=2ED3EA)](https://github.com/luizeduul/github-readme-stats)
 
 
 
