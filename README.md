@@ -23,15 +23,12 @@ Here are some ideas to get you started:
 <br/>
 
 <p>
-  <img src="http://views.whatilearened.today/views/github/AlbertoRTO/views.svg" />
   <img src="https://img.shields.io/badge/Back End-Java-f55247" />
 </p>
 
 ### Helooo👋 Welcome to my profile
 
 My name is Alberto
-
-
 
 <center>
   <table>
