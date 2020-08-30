@@ -33,6 +33,8 @@ My name is Alberto
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
+ <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonsilvati&hide=html&layout=compact" /></td>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
