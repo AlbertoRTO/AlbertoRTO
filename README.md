@@ -45,7 +45,7 @@ My name is Alberto
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoRTO&hide=html&layout=compact" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=AlbertoRTO&show_icon=true&theme=radical&title_color=2ED3EA" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=AlbertoRTO&show_icons=true&theme=radical&title_color=2ED3EA" /></td>
     </tr>   
   </table>
 </center>
